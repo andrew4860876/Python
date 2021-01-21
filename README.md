@@ -1,5 +1,5 @@
 # Python
-A list of my python projects
+A list of some of my python projects
 
 
 1) GUIcalculator.py  --  A calculator GUI built in Tkinter
